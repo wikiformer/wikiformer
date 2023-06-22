@@ -1,12 +1,17 @@
 # Wikiformer
 
-Source code of our submitted paper:
+## Source code of our submitted paper:
 
-Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc Retrieval
-
-**This GitHub repository has been anonymized.**
+## Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc Retrieval
 
 
+
+### Some notes about this anonymous repository
+
+- **This GitHub repository has been anonymized.**
+
+- **The core code of this paper is publicly available in this GitHub repository. As the paper is currently under submission, once it is accepted, we will disclose the complete code and data in this repository.**
+- **Some of the code in this repository involves absolute paths. Once the paper is accepted, we will make all the files corresponding to these paths publicly available.**
 
 ### The file structure of this repository:
 
@@ -69,4 +74,4 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ### Running Pre-training
 
-Pretrain directly using the demo pre-training data
+**We will disclose the complete code and data in this repository.**
